@@ -17,5 +17,6 @@ body{
     text-align: center;
 }
 button{
-    
+    width: 20px;
+    height: 20px;
 }
