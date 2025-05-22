@@ -28,3 +28,8 @@ button{
 img{
     width: 300px;
 }
+p{
+ margin: 20px;
+   text-align: center;
+   font-family: "Ancizar Serif", serif;
+}
