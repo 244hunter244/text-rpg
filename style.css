@@ -51,7 +51,7 @@ button:hover{
     font-family: monospace;
     font-size: 1.5rem;
     margin-inline: auto;
-    overflow: hidden;
+    overflow: visible;
     white-space: nowrap;
     border-right: 1px solid;
     animation: typing 5s steps(22) forwards,
