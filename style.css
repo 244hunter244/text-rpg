@@ -34,9 +34,9 @@ p{
    font-family: "Ancizar Serif", serif;
    color: white;
 }
-.button1{
+button{
     border-radius: 20px;
 }
-a:hover{
-    color: #f24545;
+button:hover{
+    color: #ff7373;
 }
