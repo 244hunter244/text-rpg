@@ -38,5 +38,5 @@ button{
     border-radius: 20px;
 }
 button:hover{
-    color: #ff7373;
+    background-color: #ff7373;
 }
