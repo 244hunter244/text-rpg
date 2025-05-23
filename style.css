@@ -49,17 +49,18 @@ button:hover{
 .typeAnim{
     display: flex;
     justify-content: center;
+    
+}
+
+.typeAnim p {
+    font-family: monospace;
+    font-size: 1.5rem;
     margin-inline: auto;
     overflow: hidden;
     white-space: nowrap;
     border-right: 1px solid;
     animation: typing 5s steps(22) forwards,
     blink 1s step-end infinite;
-}
-
-.typeAnim p {
-    font-family: monospace;
-    font-size: 1.5rem;
 }
 
 @keyframes typing {
