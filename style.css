@@ -33,11 +33,10 @@ img{
     width: 300px;
 }
 p{
-   margin: 20px;
+    margin: 0px;
    text-align: center;
    font-family: "Ancizar Serif", serif;
    color: white;
-   margin: 0px;
 }
 button{
     border-radius: 20px;
