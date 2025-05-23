@@ -41,7 +41,7 @@ button:hover{
     background-color: #ff7373;
 }
 
-.typeAnim{
+.typeAnim{  /*Tanto a typeAnim quanto a typeAnim p são responsaveis pela animação. Além dos 2 @keyframes no final do código*/
     display: flex;
     justify-content: center;
     
