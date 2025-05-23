@@ -45,3 +45,35 @@ button{
 button:hover{
     background-color: #ff7373;
 }
+
+.typeAnim{
+    display: flex;
+    justify-content: center;
+    margin-inline: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 1px solid;
+    animation: typing 3s steps(22) forwards,
+    blink 1s step-end infinite;
+}
+
+.typeAnim p {
+    font-family: monospace;
+    font-size: 1.5rem;
+}
+
+@keyframes typing {
+    from{
+        widht: 0;
+    }
+
+    to {
+        widht: 100%;
+    }
+}
+
+@keyframes blink{
+    50%{
+        border-color: transparent
+    }
+}
