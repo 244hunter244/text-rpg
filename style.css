@@ -14,11 +14,11 @@ h1{
     font-family: "Ancizar Serif", serif;
 }
 body{
-    background-color: black;
+    color: black;
     text-align: center;
     font-family: "Ancizar Serif", serif;
     margin: 0px;
-    size: fill;
+    
 }
 button{
     width: 90px;
