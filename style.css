@@ -17,6 +17,7 @@ body{
     background-color: black;
     text-align: center;
     font-family: "Ancizar Serif", serif;
+    margin: 0px;
 }
 button{
     width: 90px;
