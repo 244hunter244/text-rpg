@@ -40,3 +40,7 @@ button{
 button:hover{
     background-color: #ff7373;
 }
+
+p {
+    text-align: center;
+}
