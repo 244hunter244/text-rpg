@@ -15,6 +15,7 @@ body{
     
 }
 .box{
+    text-align: center;
     width: 350px;
     height: 125px;
     background-color: gray;
