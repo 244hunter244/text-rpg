@@ -15,7 +15,7 @@ body{
     
 }
 .box{
-    border: #ff7373;
+    border: 10px #ff7373;
     margin: 10px;
     text-align: center;
     width: 350px;
