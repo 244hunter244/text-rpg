@@ -15,8 +15,7 @@ body{
     
 }
 .box{
-    border: 10px #ff7373;
-    margin: 10px;
+    border: 10px double red;
     text-align: center;
     width: 350px;
     height: 125px;
