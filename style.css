@@ -15,9 +15,10 @@ body{
     
 }
 .box{
-    width: 30px;
-    height: 70px;
+    width: 140px;
+    height: 60px;
     background-color: gray;
+    text-align: center;
 }
 h1{
     margin: 20px;
