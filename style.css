@@ -15,11 +15,10 @@ body{
     
 }
 .box{
-    border: 10px double red;
+    border: 10px double white;
     text-align: center;
     width: 350px;
     height: 125px;
-    background-color: gray;
     
 }
 h1{
