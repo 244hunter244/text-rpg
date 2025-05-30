@@ -33,7 +33,7 @@ white-space: nowrap;
 margin: 0 auto;
 letter-spacing: .15em;
 animation:
-typing 3.5s steps(30, end), blink-caret .5s step-end infinite;
+typing 3.5s steps(30, end);
 }
 
 @keyframes typing {
@@ -41,10 +41,6 @@ typing 3.5s steps(30, end), blink-caret .5s step-end infinite;
   to { width: 100% }
 }
 
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange }
-}
 
 h1{
     margin: 20px;
