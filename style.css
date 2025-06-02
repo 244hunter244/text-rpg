@@ -8,7 +8,7 @@ body {
     outline: none;
     height: 100vh;
     justify-content: center;
-    background-image: ;
+    background-image:url(bg.webp);
 }
 
 header { 
