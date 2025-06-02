@@ -8,6 +8,7 @@ body {
     outline: none;
     height: 100vh;
     justify-content: center;
+    background-image: ;
 }
 
 header { 
@@ -51,7 +52,7 @@ button {
     width: 120px;
     height: 60px;
     background-color: brown;
-    margin: 30px;
+    margin: 0px;
     font-family: "Ancizar Serif", serif;
     border-radius: 20px;
     border: 0px;
