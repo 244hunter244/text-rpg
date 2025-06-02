@@ -9,6 +9,7 @@ body {
     height: 100vh;
     justify-content: center;
     background-image:url(bg.webp);
+    background-repeat: no-repeat;
 }
 
 header { 
