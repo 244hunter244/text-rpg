@@ -49,10 +49,10 @@ img {
 
 
 button {
-    width: 120px;
+    width: 200px;
     height: 60px;
     background-color: brown;
-    margin: 0px;
+    margin: 30px;
     font-family: "Ancizar Serif", serif;
     border-radius: 20px;
     border: 0px;
