@@ -44,10 +44,11 @@ p {
     
 }
 
-img.title{
+.title{
     margin: 10px auto;
     width: 400px;
 }
+
 img {
     margin-top: 20px;
     width: 300px;
