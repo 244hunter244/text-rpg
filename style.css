@@ -18,7 +18,8 @@ header {
 }
 
 h1 {
-    margin: 20px;
+    margin: 5px;
+    color: white;
     text-align: center;
     font-family: "Ancizar Serif", serif;
 }
