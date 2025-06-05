@@ -45,7 +45,10 @@ p {
 }
 
 .title{
-    margin: 100px auto;
+    
+    margin: auto;
+    margin-top: 60px;
+    margin-bottom: 40px;
     width: 400px;
     
 }
