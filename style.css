@@ -11,12 +11,10 @@ body {
     background-image:url(bg.webp);
     background-repeat: no-repeat;
 }
-
 header { 
     background-color: black;
     color:white;
 }
-
 h1 {
     margin: 5px;
     color: white;
@@ -31,10 +29,9 @@ h2 {
 p {
     color: white;
     margin: 0px auto;
-    font-size: medium;
+    font-size: 18px;
     
 }
-
 button {
     width: 200px;
     height: 60px;
@@ -50,7 +47,10 @@ button:hover {
     background-color: #ff7373;
 
 }
-
+img {
+    margin-top: 20px;
+    width: 300px;
+}
 .box {
     border: 7px double white;
     padding: 5px;
@@ -60,8 +60,6 @@ button:hover {
     margin: 20px auto;
     
 }
-
-
 .title{
     
     margin: auto;
@@ -70,25 +68,14 @@ button:hover {
     width: 400px;
     
 }
-
 .firstFinal{
     width: 300px;
     height: 300px;
     margin: center;
 }
-
 .textFinal{
-    font-size: 13.5px;
+    font-size: 16px;
 }
-
-img {
-    margin-top: 20px;
-    width: 300px;
-}
-
-
-
-
 .final {
     color: #ff3300;
     font-weight: bold;
