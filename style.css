@@ -44,9 +44,9 @@ p {
     
 }
 
-.title{
-    margin: 20px auto;
-    image-resolution: 300dpi;
+img.title{
+    margin: 10px auto;
+    width: 400px;
 }
 img {
     margin-top: 20px;
