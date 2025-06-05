@@ -33,8 +33,21 @@ p {
     font-size: medium;
     
 }
-a{
-    font-size: 45px;
+
+button {
+    width: 200px;
+    height: 60px;
+    background-color: brown;
+    margin: 30px;
+    font-family: "Ancizar Serif", serif;
+    border-radius: 20px;
+    border: 0px;
+    font-size: large;
+
+}
+button:hover {
+    background-color: #ff7373;
+
 }
 
 .box {
@@ -46,6 +59,7 @@ a{
     margin: 20px auto;
     
 }
+
 
 .title{
     
@@ -68,21 +82,7 @@ img {
 }
 
 
-button {
-    width: 200px;
-    height: 60px;
-    background-color: brown;
-    margin: 30px;
-    font-family: "Ancizar Serif", serif;
-    border-radius: 20px;
-    border: 0px;
-    font-size: large;
 
-}
-button:hover {
-    background-color: #ff7373;
-
-}
 
 .final {
     color: #ff3300;
