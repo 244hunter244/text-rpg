@@ -76,6 +76,10 @@ button:hover {
     margin: center;
 }
 
+.textFinal{
+    font-size: 12px;
+}
+
 img {
     margin-top: 20px;
     width: 300px;
