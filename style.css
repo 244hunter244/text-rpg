@@ -46,6 +46,12 @@ p {
 
 .title{
     margin: 10px auto;
+    
+}
+
+.firstFinal{
+    width: 300px;
+    height: 300px;
 }
 
 img {
