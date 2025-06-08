@@ -81,6 +81,8 @@ img {
 }
 .textFinal{
     font-size: 16px;
+    color: white;
+    font-style: bold;
 }
 .final {
     color: #ff3300;
