@@ -17,6 +17,7 @@ header {
     background-color: black;
     color:white;
 }
+
 h1 {
     margin: 5px;
     color: white;
@@ -27,6 +28,9 @@ h2 {
     margin: 20px;
     text-align: center;
     font-family: "8bitoperator";
+}
+h3{
+    color: black;
 }
 p {
     color: white;
