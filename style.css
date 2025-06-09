@@ -1,4 +1,7 @@
-@import url(8bitoperator_jve.ttf);
+@font-face {
+    font-family: "8bitoperator";
+    src: url("8bitoperator_jve.ttf") format(".ttf");
+}
 
 body {
     background-color: black;
@@ -19,12 +22,12 @@ h1 {
     margin: 5px;
     color: white;
     text-align: center;
-    font-family: "Ancizar Serif", serif;
+    font-family: "8bitoperator";
 }
 h2 {
     margin: 20px;
     text-align: center;
-    font-family: "Ancizar Serif", serif;
+    font-family: "8bitoperator";
 }
 p {
     color: white;
@@ -44,7 +47,7 @@ button {
     height: 60px;
     background-color: brown;
     margin: 30px;
-    font-family: "Ancizar Serif", serif;
+    font-family: "8bitoperator";
     border-radius: 20px;
     border: 0px;
     font-size: 19px;
