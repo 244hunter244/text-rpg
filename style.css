@@ -1,6 +1,6 @@
 @font-face {
     font-family: "8bitoperator";
-    src: url("8bitoperator_jve.ttf");
+    src: url("8bitoperator_jve.ttf") format("ttf");
 }
 
 body {
