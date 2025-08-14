@@ -48,13 +48,13 @@ p {
 button {
     width: 250px;
     height: 60px;
-    background-color: none;
+    background-color: ;
     background-image: url("botaoIniciar.png");
     margin: 30px;
     border-radius: 20px;
 }
 button:hover {
-    background-color: #ff7373;
+    
     width: 300px;
     height: 90px;
 
