@@ -63,7 +63,7 @@ button:hover {
 
 }
 #iniciar{
-    background-image:"botaoIniciar.png";
+    background-image: url(botaoIniciar.png);
 }
 img {
     margin-top: 20px;
