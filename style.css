@@ -59,6 +59,8 @@ button:hover {
 
 }
 #start{
+    width: 700px;
+    height: 400px;
     background-image: url("botaoIniciar.png");
     background-size: cover;
     background-color: none;
