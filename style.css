@@ -48,7 +48,7 @@ p {
 button {
     width: 250px;
     height: 60px;
-    background-image: brown;
+    background-image: url(botaoIniciar.png);
     margin: 30px;
     font-family: "8bitoperator";
     border-radius: 20px;
