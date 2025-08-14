@@ -50,10 +50,8 @@ button {
     height: 60px;
     background-image: url(botaoIniciar.png);
     margin: 30px;
-    font-family: "8bitoperator";
     border-radius: 20px;
     border: 0px;
-    font-size: 19px;
 
 }
 button:hover {
