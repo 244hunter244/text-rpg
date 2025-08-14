@@ -48,7 +48,7 @@ p {
 button {
     width: 250px;
     height: 60px;
-    background-color: brown;
+    background-image: brown;
     margin: 30px;
     font-family: "8bitoperator";
     border-radius: 20px;
@@ -62,10 +62,7 @@ button:hover {
     height: 90px;
 
 }
-#start{
-    background-image: url(botaoIniciar.png);
-    
-}
+
 img {
     margin-top: 20px;
     width: 400px;
