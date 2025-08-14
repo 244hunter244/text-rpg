@@ -62,6 +62,9 @@ button:hover {
     height: 90px;
 
 }
+#iniciar{
+    background-image:"botaoIniciar.png";
+}
 img {
     margin-top: 20px;
     width: 400px;
