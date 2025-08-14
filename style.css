@@ -48,11 +48,9 @@ p {
 button {
     width: 250px;
     height: 60px;
-    background-image: url(botaoIniciar.png);
+    background-image: url("botaoIniciar.png");
     margin: 30px;
     border-radius: 20px;
-    border: 0px;
-
 }
 button:hover {
     background-color: #ff7373;
