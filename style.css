@@ -55,6 +55,7 @@ button {
     display: inline-block;
     font-family: Arial, Helvetica, sans-serif;
     bottom: unset;
+    box-shadow: none;
 }
 button:hover {
     background-color: rgb(211, 45, 45);
