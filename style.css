@@ -46,24 +46,17 @@ p {
     margin-top: 15px;
 }
 button {
+    background-color: rgb(177, 27, 27);
     width: 250px;
     height: 60px;
-    background-image: url("botaoIniciar.png");
     margin: 30px;
     border-radius: 20px;
 }
 button:hover {
-    
+    background-color: rgb(211, 45, 45);
     width: 300px;
     height: 90px;
 
-}
-#start{
-    width: 700px;
-    height: 400px;
-    background-image: url("botaoIniciar.png");
-    background-size: cover;
-    background-color: none;
 }
 img {
     margin-top: 20px;
