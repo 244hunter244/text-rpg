@@ -48,6 +48,7 @@ p {
 button {
     color: aliceblue;
     background-color: rgb(177, 27, 27);
+    border: none;
     width: 250px;
     height: 60px;
     margin: 30px;
