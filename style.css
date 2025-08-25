@@ -90,6 +90,10 @@ img {
     height: 400px;
     margin: center;
 }
+.enemy{
+    color: #f04545;
+    font-weight: bold;
+}
 .textFinal{
     font-size: 16px;
     color: white;
