@@ -104,7 +104,9 @@ img {
     color: #ff3300;
     font-weight: bold;
 }
-
+.enemyEnd{
+    color: #f04545;
+}
 .adeus{
     color: white;
     font-weight: italic;
