@@ -55,7 +55,7 @@ button { /* Propriedades do Buttom */
     margin: 30px;
     border-radius: 20px;
     display: inline-block;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "8bitoperator", Helvetica, sans-serif;
     box-shadow: none;
 }
 button:hover { /* Quando mouse em cima do botão, então esse comando será executado, alterando as propriedades vizuais do botão. */
